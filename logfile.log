@@ -1,0 +1,44 @@
+2018-04-09 20:18:20 INFO  WeatherPage:73 - DateFrom from form is: 2018-02-12
+2018-04-09 20:18:20 INFO  WeatherPage:74 - DateTo from form is: 2019-07-12
+2018-04-09 20:31:18 INFO  WeatherPage:73 - filter button is pressed
+2018-04-09 20:31:18 INFO  WeatherPage:74 - DateFrom from form is: 2018-03-12
+2018-04-09 20:31:18 INFO  WeatherPage:75 - DateTo from form is: 2019-07-12
+2018-04-09 20:31:46 INFO  WeatherPage:88 - report button is pressed
+2018-04-09 20:32:15 INFO  WeatherPage:180 - Update button is pressed
+2018-04-09 20:32:58 INFO  WeatherPage:123 - Forecast button is pressed
+2018-04-09 20:37:27 INFO  ReadDaysMaxMinDB:39 - Days info has been read from DB
+2018-04-09 20:37:27 INFO  ReadDaysMaxMinDB:39 - Days info has been read from DB
+2018-04-09 20:37:28 INFO  ReadDaysMaxMinDB:39 - Days info has been read from DB
+2018-04-09 20:37:28 INFO  ReadDaysMaxMinDB:39 - Days info has been read from DB
+2018-04-09 20:37:28 INFO  ReadDaysMaxMinDB:39 - Days info has been read from DB
+2018-04-09 20:37:28 INFO  ReadDaysMaxMinDB:39 - Days info has been read from DB
+2018-04-09 20:37:32 INFO  WeatherPage:73 - filter button is pressed
+2018-04-09 20:37:32 INFO  WeatherPage:74 - DateFrom from form is: 2018-02-12
+2018-04-09 20:37:32 INFO  WeatherPage:75 - DateTo from form is: 2019-07-12
+2018-04-09 20:37:32 INFO  ReadDaysMaxMinDB:39 - Days info has been read from DB
+2018-04-09 20:37:32 INFO  ReadDaysMaxMinDB:39 - Days info has been read from DB
+2018-04-09 20:37:53 INFO  WeatherPage:73 - filter button is pressed
+2018-04-09 20:37:53 INFO  WeatherPage:74 - DateFrom from form is: 2018-03-12
+2018-04-09 20:37:53 INFO  WeatherPage:75 - DateTo from form is: 2019-07-12
+2018-04-09 20:37:53 INFO  ReadDaysMaxMinDB:39 - Days info has been read from DB
+2018-04-09 20:37:53 INFO  ReadDaysMaxMinDB:39 - Days info has been read from DB
+2018-04-09 20:38:41 INFO  WeatherPage:123 - Forecast button is pressed
+2018-04-09 20:38:41 INFO  SavedWeatherDB:53 - Weather Forecast has been saved to DB
+2018-04-09 20:38:41 INFO  ReadDaysMaxMinDB:39 - Days info has been read from DB
+2018-04-09 20:38:41 INFO  ReadDaysMaxMinDB:39 - Days info has been read from DB
+2018-04-12 23:31:25 INFO  WeatherPage:73 - filter button is pressed
+2018-04-12 23:31:25 INFO  WeatherPage:74 - DateFrom from form is: 2018-03-12
+2018-04-12 23:31:25 INFO  WeatherPage:75 - DateTo from form is: 2019-07-12
+2018-04-13 00:03:24 INFO  WeatherPage:88 - report button is pressed
+2018-04-13 11:18:59 INFO  UpdateWeatherDB:49 - DB's been updated
+2018-04-13 11:18:59 INFO  WeatherPage:188 - Update button is pressed
+2018-04-13 11:58:10 INFO  WeatherPage:73 - filter button is pressed
+2018-04-13 11:58:10 INFO  WeatherPage:74 - DateFrom from form is: 2018-03-12
+2018-04-13 11:58:10 INFO  WeatherPage:75 - DateTo from form is: 2019-07-12
+2018-04-13 12:15:58 INFO  WeatherPage:73 - filter button is pressed
+2018-04-13 12:15:58 INFO  WeatherPage:74 - DateFrom from form is: 2018-04-01
+2018-04-13 12:15:58 INFO  WeatherPage:75 - DateTo from form is: 2019-07-12
+2018-04-13 12:16:40 INFO  WeatherPage:131 - Forecast button is pressed
+2018-04-13 12:16:42 INFO  SavedWeatherDB:51 - Weather Forecast has been saved to DB
+2018-04-13 12:17:28 INFO  UpdateWeatherDB:49 - DB's been updated
+2018-04-13 12:17:28 INFO  WeatherPage:188 - Update button is pressed
